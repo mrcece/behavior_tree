@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bright.BehaviorTree", "Bright.BehaviorTree\Bright.BehaviorTree.csproj", "{7952276B-4664-4854-805C-78531F6F0C36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bright.BehaviorTreeUnitTest", "Bright.BehaviorTreeUnitTest\Bright.BehaviorTreeUnitTest.csproj", "{AC4DB63C-E7EA-4913-B31A-176533601F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7952276B-4664-4854-805C-78531F6F0C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7952276B-4664-4854-805C-78531F6F0C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7952276B-4664-4854-805C-78531F6F0C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7952276B-4664-4854-805C-78531F6F0C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4DB63C-E7EA-4913-B31A-176533601F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4DB63C-E7EA-4913-B31A-176533601F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4DB63C-E7EA-4913-B31A-176533601F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4DB63C-E7EA-4913-B31A-176533601F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF104A15-7A0B-4CC3-870D-7E28A68FCF5C}
+	EndGlobalSection
+EndGlobal
