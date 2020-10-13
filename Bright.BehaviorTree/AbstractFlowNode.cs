@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
@@ -149,7 +149,7 @@ namespace Bright.BehaviorTree
                 {
                     s_logger.Trace("service ReceiveActivation. service:{id}", s.Id);
                     s.IsExecuting = true;
-                    if (AutoTick)
+                    if (s.AutoTick)
                     {
                         Bt.ScheduleTickJob(s);
                     }
